@@ -79,7 +79,7 @@ wget https://download.pytorch.org/libtorch/cu118/libtorch-cxx11-abi-shared-with-
 
 ```bash
 # Clone the repository
-git clone https://anonymous.4open.science/r/veriDP-997D/
+git clone https://github.com/AnonymousVeriDP/veriDP.git
 cd veridp
 
 # Create build directory
@@ -333,4 +333,5 @@ Contributions are welcome! Please read the contributing guidelines before submit
 <p align="center">
   <b>VeriDP</b> - Trustworthy Machine Learning through Verifiable Privacy
 </p>
+
 
